@@ -1,0 +1,10 @@
+{
+    "development": {
+      "username": "root",
+      "password": null,
+      "database": "botak",
+      "host": "localhost",
+      "dialect": "mysql",
+      "operatorsAliases": false
+    }
+  }
